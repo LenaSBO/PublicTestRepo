@@ -1,2 +1,2 @@
 # PublicTestRepo
-TestCOllaboration
+TestCollaboration
